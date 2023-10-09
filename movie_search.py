@@ -147,7 +147,6 @@ def search_date(db):  # Table Create
 # end
 
 
-# Main
 while (True):
     user_pick = user_interface()
     if (user_pick == 0):
